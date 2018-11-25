@@ -1,0 +1,39 @@
+body
+{
+background-color:#abbed3;
+}
+h1
+{
+text-align: center;
+color:#7e4a84;
+margin-left:150;
+font-family:Forte;
+}
+p
+{
+text-align: left;
+color:#602242;
+margin-left:80;
+font-family:Forte;
+}
+h2
+{
+text-align: left;
+color:#203c3d;
+margin-left:100;
+font-family:Forte;
+}
+h3
+{
+text-align: left;
+color:#0f2547;
+margin-left:90;
+font-family:Forte;
+}
+h4
+{
+text-align: center;
+color:#7e4a84;
+margin-left:90;
+font-family:Forte;
+}
